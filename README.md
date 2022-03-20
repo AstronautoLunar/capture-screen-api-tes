@@ -35,6 +35,10 @@ Simplesmente clone o meu repositório nesse link
 
 Abra o repositório clonado, acesse a pasta src e clique em index.html
 
+ou
+
+Caso queira uma maneira mais rápido pode acessar o <a href="https://capture-screen-api-test.vercel.app/" target="__blank">site em produção</a>
+
 ## Tecnologias
 
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Learn/HTML)
