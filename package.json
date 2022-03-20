@@ -1,0 +1,12 @@
+{
+  "name": "screen-media-api-test",
+  "version": "1.0.0",
+  "description": "Projeto criado para testar a api web chamada Screen Capture API",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Astronauto Lunar",
+  "license": "MIT"
+}
