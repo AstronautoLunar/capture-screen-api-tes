@@ -3,7 +3,7 @@
 <div align="center">
   <img 
        src="https://github.com/AstronautoLunar/capture-screen-api-test/blob/master/presentation.png" 
-       alt="image"
+       alt="presentation image of Website"
   />
 </div>
 
@@ -15,6 +15,7 @@
 * [Sobre](#sobre)
 * [Como usar](#como-usar)
 * [Tecnologias](#tecnologias)
+* [Teste geral do website](#lighthouse)
 
 <h4 align="center">
   ✔️ Terminado ✔️
@@ -44,3 +45,12 @@ Caso queira uma maneira mais rápido pode acessar o <a href="https://capture-scr
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Learn/HTML)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [Javascript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps)
+
+## Teste geral do website
+
+<div align="center">
+  <img 
+       src="https://github.com/AstronautoLunar/capture-screen-api-test/blob/master/lighthouse.png" 
+       alt="presentation image of lighthouse test"
+  />
+</div>
