@@ -31,7 +31,7 @@ A API oferece um guia com exemplos nesse <a href="https://developer.mozilla.org/
 ## Como usar
 Simplesmente clone o meu repositório nesse link
 ```
-  git clone git@github.com:AstronautoLunar/capture-screen-api-test.git
+  git clone git@github.com:pedropfsf/capture-screen-api-test.git
 ```
 
 Abra o repositório clonado, acesse a pasta src e clique em index.html
